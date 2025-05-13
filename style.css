@@ -26,15 +26,3 @@ html,body{
     font-size: 72px;
     font-weight: 400;
 }
-.text_container {
-   color: #fff;
-    max-width: 900px;
-    margin: 0 auto;
-    padding-top: 64px;
-    padding-left: 16px;
-
-}
-.lg_text{
-    font-size: 72px;
-    font-weight: 400;
-}
