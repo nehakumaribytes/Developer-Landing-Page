@@ -25,4 +25,5 @@ html,body{
 .lg_text{
     font-size: 72px;
     font-weight: 400;
+    padding: 20px;
 }
