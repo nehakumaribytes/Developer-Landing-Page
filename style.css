@@ -32,6 +32,13 @@ html,body{
     padding: 20px;
 }
 .black_box_ h2{
+   font-size: 72px;
+   color: #fff;
+   text-align: center;
+   font-weight: 300;
+}
+
+.black_box_h2 span {
     font-weight: 400;
     font-size: 96px;
 }
