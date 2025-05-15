@@ -25,5 +25,13 @@ html,body{
 .lg_text{
     font-size: 72px;
     font-weight: 400;
+}
+
+.black_box_{
+    background-color: black;
     padding: 20px;
+}
+.black_box_ h2{
+    font-weight: 400;
+    font-size: 96px;
 }
